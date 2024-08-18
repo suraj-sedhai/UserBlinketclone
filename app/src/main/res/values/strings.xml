@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">UserBlinketclone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragmrnt_home_tv_descreption">Profile</string>
+    <string name="fragmrnt_home_tv_collapse">True</string>
+    <string name="fragment_home_tv_search">search</string>
+
+    <string name="fragment_home_tv_bestsellerBestSellers">BestSellers</string>
+    <string name="fragment_home_tv_shopByCategories">Shop by Categories</string>
+    <string name="rv_bg_tv">Coat</string>
+
+
+
+
+
+</resources>

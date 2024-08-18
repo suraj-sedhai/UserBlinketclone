@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Colors -->
+    <color name="background_primary">#FFFFFF</color>
+    <color name="background_secondary">#F5F5F5</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#333333</color>
+    <color name="text_tertiary">#666666</color>
+
+    <!-- Accent Colors -->
+    <color name="accent_primary">#3F51B5</color>
+    <color name="accent_secondary">#FFC107</color>
+
+    <!-- Button Colors -->
+    <color name="button_background">#3F51B5</color>
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- Divider/Border Colors -->
+    <color name="divider">#E0E0E0</color>
+
+
+    <!-- Normal common colors -->
+    <color name="color_primary">#FF6600</color>
+    <color name="button_green">#0EED19</color>
+
+
+
+
+</resources>
